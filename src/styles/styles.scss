@@ -3,4 +3,7 @@
 @import "./abstracts/_variables";
 @import "./abstracts/_mixins";
 
+@import "./components/globals";
 @import "./components/userForm";
+@import "./components/cryptoComparator";
+@import "./components/userInfo";
