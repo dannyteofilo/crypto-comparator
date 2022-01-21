@@ -1,0 +1,17 @@
+.crypto-info {
+  width: 450px;
+
+  > .title {
+    text-align: center;
+    font-size: 24px;
+  }
+}
+
+.table {
+  display: block;
+  max-height: 500px;
+  overflow-y: scroll;
+  .value {
+    font-size: 22px;
+  }
+}
